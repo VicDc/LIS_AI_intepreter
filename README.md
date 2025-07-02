@@ -3,7 +3,7 @@
 > ⚠️ **Project Under Development**
 >
 > This project is currently in an active development phase. The features described are the ultimate goal and may not yet be fully implemented. The architecture and approaches are continuously evolving.
-
+https://github.com/VicDc/LIS_AI_intepreter/blob/6135e27aa1f00c6bec4f78431899107b30cb9d2e/LIS_AI_INTERPRETER/LIS_AI%20interpetrer-07.jpg
 ## The Vision
 
 The goal of this project is to create a bridge between the world of Italian Sign Language (LIS) and the world of spoken and written language. We aim to develop an intuitive tool capable of translating signs in real time to break down communication barriers and promote a more inclusive society.
